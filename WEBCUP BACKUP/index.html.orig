@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<<<<<<< HEAD
   <title>Aqaumagic Park by Ou group royos</title>
+=======
+  <title>Yogi Feature Change ! </title>
   <title>Aqaumagic Park by Alyah and Ashved</title>
+>>>>>>> f0d6956ad0cc222fc08cf0fa693d4cb00ae32552
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"/>
@@ -79,7 +83,11 @@
       </div>
       <div class="row tagline">
       <div class="col-lg-12 tag">
+<<<<<<< HEAD
         biggest Aquarium  in the world! A lifetime Experience 
+=======
+        World's Largest Aquarium ! A lifetime Experience
+>>>>>>> f0d6956ad0cc222fc08cf0fa693d4cb00ae32552
       </div>
       </div>
       <div class="row learnMore">
